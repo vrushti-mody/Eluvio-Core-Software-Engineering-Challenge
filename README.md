@@ -15,7 +15,7 @@ Given a large number of binary files, write a program that finds the longest str
 
 | Directory                                                                                         | Content                      |
 | --------------------------------------------------------------------------------------------------| ---------------------------- |
-| [solution](https://github.com/vrushti-mody/Best-Surprise/tree/master/eluvio_solution.py) | contains the lcs solution |
+| [solution](https://github.com/vrushti-mody/Eluvio-Core-Software-Engineering-Challenge/blob/master/eluvio_solution.py) | contains the lcs solution |
 
 ### Setup
 
